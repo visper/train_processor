@@ -1,0 +1,83 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=vagon_light
+
+[Library]
+vagon_light=.\vagon_light.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+vagon_light=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=all_1|all_1|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/decoder.vhd=-1
+/multiplex.vhd=-1
+/PC.vhd=-1
+/reg_position.vhd=-1
+/multiplex_1.vhd=-1
+/instruction_mem.vhd=-1
+/adder.vhd=-1
+/comparator.vhd=-1
+/adder_1.vhd=-1
+/add_sub.vhd=-1
+/all_1.bde=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+/bus.vhd=-1
+/untitled_buf.asdb=-1
+/untitled_buf.awc=-1
+
+[Files.Data]
+.\src\decoder.vhd=VHDL Source Code
+.\src\multiplex.vhd=VHDL Source Code
+.\src\PC.vhd=VHDL Source Code
+.\src\reg_position.vhd=VHDL Source Code
+.\src\multiplex_1.vhd=VHDL Source Code
+.\src\instruction_mem.vhd=VHDL Source Code
+.\src\adder.vhd=VHDL Source Code
+.\src\comparator.vhd=VHDL Source Code
+.\src\adder_1.vhd=VHDL Source Code
+.\src\add_sub.vhd=VHDL Source Code
+.\src\all_1.bde=Block Diagram
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\bus.vhd=VHDL Source Code
+.\src\untitled_buf.asdb=Accelerated Waveform File
+.\src\untitled_buf.awc=Accelerated Waveform Configuration
+
+[file_out:/all_1.bde]
+/..\compile\all_1.vhd=-1
+

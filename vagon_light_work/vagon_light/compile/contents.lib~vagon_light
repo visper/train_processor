@@ -1,0 +1,25 @@
+6760
+~E 1 "./src/instruction_mem.vhd" 5 instruction_mem
+~A 1 "./src/instruction_mem.vhd" 12 instruction_mem
+~E 1 "./compile/all_1.vhd" 25 all_1
+~A 1 "./compile/all_1.vhd" 35 all_1
+~E 1 "./src/adder.vhd" 5 adder
+~A 1 "./src/adder.vhd" 12 adder
+~E 1 "./src/add_sub.vhd" 5 add_sub
+~A 1 "./src/add_sub.vhd" 13 add_sub
+~E 1 "./src/adder_1.vhd" 5 adder_1
+~A 1 "./src/adder_1.vhd" 12 adder_1
+~E 1 "./src/comparator.vhd" 5 comparator
+~A 1 "./src/comparator.vhd" 13 comparator
+~E 1 "./src/bus.vhd" 11 buff
+~A 1 "./src/bus.vhd" 21 buff
+~E 1 "./src/decoder.vhd" 5 decoder
+~A 1 "./src/decoder.vhd" 16 decoder
+~E 1 "./src/multiplex_1.vhd" 5 multiplex_1
+~A 1 "./src/multiplex_1.vhd" 14 multiplex_1
+~E 1 "./src/multiplex.vhd" 11 multiplex
+~A 1 "./src/multiplex.vhd" 20 multiplex
+~E 1 "./src/PC.vhd" 5 pc
+~A 1 "./src/PC.vhd" 14 pc
+~E 1 "./src/reg_position.vhd" 5 reg_position
+~A 1 "./src/reg_position.vhd" 18 reg_position

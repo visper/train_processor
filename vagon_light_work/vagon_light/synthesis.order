@@ -1,0 +1,12 @@
+i<>.\src\all_1.bde
+i<>.\src\adder.vhd
+i<>.\src\multiplex.vhd
+i<>.\src\add_sub.vhd
+i<>.\src\comparator.vhd
+i<>.\src\decoder.vhd
+i<>.\src\instruction_mem.vhd
+i<>.\src\reg_position.vhd
+i<>.\src\PC.vhd
+i<>.\src\multiplex_1.v
+i<>.\src\adder_1.vhd
+i<>.\src\bus.vhd

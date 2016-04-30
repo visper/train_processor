@@ -1,0 +1,12 @@
+.\src\decoder.vhd
+.\src\multiplex.vhd
+.\src\PC.vhd
+.\src\reg_position.vhd
+.\src\multiplex_1.vhd
+.\src\instruction_mem.vhd
+.\src\adder.vhd
+.\src\comparator.vhd
+.\src\adder_1.vhd
+.\src\add_sub.vhd
+.\src\all_1.bde
+.\src\bus.vhd
